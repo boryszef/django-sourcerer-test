@@ -1,0 +1,9 @@
+name: Continents
+source: https://raw.githubusercontent.com/datasets/continent-codes/master/data/continent-codes.csv
+format: csv
+columns:
+   - external_name: Code
+     type: text
+   - external_name: Name
+     type: text
+
